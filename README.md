@@ -20,7 +20,6 @@ DigiCare is a remote hospital monitoring system designed to provide real-time he
 ### Backend
 - Python (Flask)
 - AWS DynamoDB (Database)
-- AWS API Gateway
 
 ### Additional Tools
 - Arduino Circuit Simulation (for health data sensors)
